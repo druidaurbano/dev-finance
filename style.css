@@ -260,11 +260,11 @@ td.expense {
     width: 100%;
 }
 
-.input-group {
+.input-group{
     margin-top: 0.8rem;
 }
 
-.input-group small {
+.input-group small.help{
     opacity: 0.4;
 }
 
